@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="cn.zhxu.okhttps.fastjson2" type="repository">
+    <properties maven-id="cn.zhxu:okhttps-fastjson2:4.0.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/zhxu/okhttps-fastjson2/4.0.1/okhttps-fastjson2-4.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/cn/zhxu/okhttps/4.0.1/okhttps-4.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/cn/zhxu/data-core/1.5.2/data-core-1.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.14.9/okhttp-3.14.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okio/okio/1.17.5/okio-1.17.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/cn/zhxu/data-fastjson2/1.5.2/data-fastjson2-1.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson2/fastjson2/2.0.20/fastjson2-2.0.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
